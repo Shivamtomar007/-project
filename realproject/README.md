@@ -5,7 +5,7 @@ Facial Emotion Recognition with ML5: A computer vision project that runs in the 
 ![PREVIEW](preview.gif)
 
 * Click on the [video link](https://www.youtube.com/watch?v=onKT9OwMiMU) to see how this wotks!
-* [Click here](https://imadtoubal.github.io/Emotion-Recognition-with-ML5/) for demo
+
 
 ## Getting Started
 
@@ -36,9 +36,7 @@ Additionally, you can run a local server. You need to have Python installed in y
 * **Imad Eddine Toubal** - *Initial work* - [imadtoubal](https://github.com/imadtoubal)
 
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
